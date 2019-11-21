@@ -11,3 +11,9 @@ dependencies:
   url: https://github.com/gougoudetao/jx-java-demo.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: gougoudetao
+  repo: jx-go-x-demo
+  url: https://github.com/gougoudetao/jx-go-x-demo.git
+  version: ""
+  versionURL: ""
