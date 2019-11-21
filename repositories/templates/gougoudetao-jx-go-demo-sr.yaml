@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: gougoudetao
+    provider: github
+    repository: jx-go-demo
+  name: gougoudetao-jx-go-demo
+spec:
+  description: Imported application for gougoudetao/jx-go-demo
+  httpCloneURL: https://github.com/gougoudetao/jx-go-demo.git
+  org: gougoudetao
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: jx-go-demo
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/gougoudetao/jx-go-demo.git

@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: gougoudetao
+  repo: jx-go-demo
+  url: https://github.com/gougoudetao/jx-go-demo.git
+  version: ""
+  versionURL: ""
