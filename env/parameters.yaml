@@ -1,0 +1,10 @@
+adminUser:
+  password: local:standard-cluster-1/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: gougoudetao@yeah.net
+  token: local:standard-cluster-1/pipelineUser:token
+  username: gougoudetao
+prow:
+  hmacToken: local:standard-cluster-1/prow:hmacToken
